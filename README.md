@@ -4,6 +4,7 @@ GitHub Link: https://github.com/Bryce138675/Mini-project-Gesture-Music-Player
 1.Importing libraries
 
 •	Import Pygame --- Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+
 •	Import os --- The OS module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory, etc.
 
 2.Hand keypoint detection
