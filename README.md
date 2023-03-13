@@ -65,4 +65,4 @@ c.	thumb, forefinger, middle finger, ring finger and little finger---stop music
 
 5.	Feedback 
 
-I have only used five gestures to play music. After that I will use more gestures to play music. I will also improve the music player by using gestures to play the previous and next song and to adjust the volume.
+I have only used five gestures to play music. After that I will use more gestures to play music. In the future, I want to create a music player which can be controlled by gestures. I will add gestures to play the previous and next song and to adjust the volume. And I want to try use gestures to control the keyboard and mouse to search music in the database. This music player even could show lyrics and some images of songs. I hope this music player could help people play music when they couldn’t use their hands to control keyboard and mouse. I hope this music player could help disabled people to conduct music therapy and enjoy music.
